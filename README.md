@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferfolmer
 - 👀 I’m interested in learning to develop solutions for real world applications
-- 🌱 I’m currently learning Python for Data Analysis
+- 🌱 I’m currently working on embedded systems develop
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me: ferfolmer@gmail.com
 
